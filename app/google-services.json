@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "449810690811",
+    "project_id": "firebase-space-war"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449810690811:android:26524b3f580608bf",
+        "android_client_info": {
+          "package_name": "co.edu.udea.compumovil.gr08.spaceWar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "59044107119-60j1ruln3ivnoonal4je5n973p3t35nn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "co.edu.udea.compumovil.gr08.spaceWar",
+            "certificate_hash": "71:D7:9E:33:F0:FB:03:74:C4:B5:CE:7A:24:3B:FB:D6:F3:C9:BF:2B"
+          }
+        },
+        {
+          "client_id": "59044107119-60j1ruln3ivnoonal4je5n973p3t35nn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqWcrJJGk6-fFcn-B6snqLR6KKjiYALXU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
